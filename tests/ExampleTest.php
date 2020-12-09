@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Freekmurze\Test\Tests;
 
 use PHPUnit\Framework\TestCase;
 
